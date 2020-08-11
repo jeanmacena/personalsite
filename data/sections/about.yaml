@@ -1,0 +1,72 @@
+# section information
+section:
+  name: About
+  enable: true
+  weight: 1
+  showOnNavbar: true
+
+# your designation
+designation: Consultant Developer
+# your company information
+company:
+  name: Thoughtworks
+  url: "https://www.thoughtworks.com/"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/resume.pdf"
+
+# a summary about you
+summary: 'I am a passionate software engineer with years of working experience in Web Development and Automation. Sometimes, I work on some fun and social projects and such as www.u1na.org'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "jeanmacena@gmail.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/jeanmacena"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/jeanmacena/"
+
+- name: Instagram
+  icon: "fab fa-instagram"
+  url: "https://www.instagram.com/macena.jean/"
+
+- name: Facebook
+  icon: "fab fa-facebook"
+  url: "https://www.facebook.com/jeanmacena/"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Leadership
+  percentage: 80
+  color: blue
+- name: Team Work
+  percentage: 100
+  color: yellow
+- name: Communication
+  percentage: 90
+  color: pink
+- name: Hard Working
+  percentage: 100
+  color: green
+- name: Fast Learner
+  percentage: 90
+  color: sky
+- name: Problem Solving
+  percentage: 90
+  color: orange
+# you can also provide color code instead of pre-defined color name
+# - name: Example 1
+#   percentage: 75
+#   color: "#00adb5"
+# - name: Example 2
+#   percentage: 65
+#   color: "#8b8383"
