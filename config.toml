@@ -1,4 +1,4 @@
-baseurl = "http://jeanmacena.github.com"
+baseurl = "https://jeanmacena.github.io"
 title = "Jean Macena"
 theme = "hugo-coder"
 languagecode = "en"
