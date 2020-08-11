@@ -18,38 +18,38 @@ experiences:
   positions:
   - designation: Consultant Developer
     start: Mar 2020
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
-    # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Fullstack developer
+    - Full Stack developer
     - Facilitation of agile ceremonies
     - Client face
 
 - company:
-    name: PreExample Co.
-    url: "https://www.preexample.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    name: UNA Project
+    url: "https://www.u1na.org/"
+    location: Recife - Brazil
+    overview: Full Stack developer helping to create a platform start from scratch
   positions:
   - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+    start: Jul 2017
+    end: Sep 2018
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Developing functionalities
+    - Database management
+    - Deploy in production
 
 - company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.intern.com"
-    location: Intern Land
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    name: Accenture.
+    url: "https://www.accenture.com"
+    location: Accenture
+    overview: Developer and Automation Specialist with Python, Java, Selenium and UFT
   positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
+  - designation: Software Automation Engineer
+    start: Apr 2017
+    end: Mar 2020
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Client Face
+    - Team Facilitator
+    - Quality Engineer
+    - Automation Instructor
+    - Creation of Proof of Concept in differents tools
+    - Creation of tools for improve the team productivity

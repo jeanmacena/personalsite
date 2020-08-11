@@ -41,7 +41,7 @@ params:
     inverted: /assets/images/inverted-logo.png
 
   # GitHub repo URL of your site
-  gitRepo: https://github.com/hossainemruz/toha-example-site
+  gitRepo: https://github.com/jeanmacena/jeanmacena.github.io
 
   # specify whether you want to write blog post or not
   enableBlogPost: false
@@ -73,6 +73,6 @@ params:
     summary:
     - I am a Developer
     - I can learn any tech stack
-    - I am Automation Specialist
-    - I love to work with some fun projects
+    - I am an Automation Specialist
+    - I love to work with some challenger projects
     - I have accent :)

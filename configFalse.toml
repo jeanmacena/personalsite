@@ -16,7 +16,7 @@ pygmentscodefencesguesssyntax = true
 [params]
     author = "Jean Macena"
     info = "Full Stack DevOps and Magician"
-    description = "John Doe's personal website"
+    description = "Jean Macena's personal website"
     keywords = "blog,developer,personal"
     avatarurl = "image/avatar.jpg"
 
