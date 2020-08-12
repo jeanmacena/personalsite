@@ -27,7 +27,7 @@ experiences:
     name: UNA Project
     url: "https://www.u1na.org/"
     location: Recife - Brazil
-    overview: Full Stack developer helping to create a platform start from scratch
+    overview: Full Stack developer helping to create a brand new platform
   positions:
   - designation: Software Engineer
     start: Jul 2017
@@ -38,7 +38,7 @@ experiences:
     - Deploy in production
 
 - company:
-    name: Accenture.
+    name: Accenture
     url: "https://www.accenture.com"
     location: Accenture
     overview: Developer and Automation Specialist with Python, Java, Selenium and UFT
