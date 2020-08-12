@@ -16,7 +16,7 @@ company:
 resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with years of working experience in Web Development and Automation. Sometimes, I work on some fun and social projects and such as www.u1na.org'
+summary: 'I am a passionate software engineer with experience in Web Development, Automation and now learning mobile iOS.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -40,6 +40,10 @@ socialLinks:
 - name: Facebook
   icon: "fab fa-facebook"
   url: "https://www.facebook.com/jeanmacena/"
+
+- name: Medium
+  icon: "fab fa-medium"
+  url: "https://medium.com/@jeanmacena"
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
