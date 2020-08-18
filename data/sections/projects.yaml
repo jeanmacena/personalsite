@@ -21,7 +21,7 @@ projects:
 - name: iOS - Pokédex
   logo: images/projects/pokedex.png
   role: Owner
-  timeline: "Jul 2018 - Present"
+  timeline: "Jul 2020 - Present"
   repo: https://github.com/jeanmacena/studiesois # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: Just a repository for a few codes about my learning in IOS dev.
@@ -33,17 +33,8 @@ projects:
   timeline: "Aug 2020"
   repo: https://github.com/jeanmacena/instagram-bot
   #url: ""
-  summary: A little bot that will check a list of @ and like the last post for everyone on that list. This bot will work locally or after deploy as Heroku app.
+  summary: Bot that will check a list of @ and like the last post. It works locally or as Heroku App.
   tags: ["hobby", "python","bot"]
-
-- name: UNA
-  logo: images/projects/una.png
-  role: Developer
-  timeline: "Jul 2017 - Sep 2018"
-  #repo: https://github.com/kelseyhightower/nocode
-  url: "https://www.u1na.org/"
-  summary: Ecosystem of initiatives for gender equity and women's empowerment
-  tags: ["professional", "php","web"]
 
 - name: Jean Macena's website
   logo: images/projects/profile.png
@@ -53,3 +44,12 @@ projects:
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: Just a repository for my own website using Hugo.
   tags: ["hobby", "hugo", "website"]
+
+- name: UNA
+  logo: images/projects/una.png
+  role: Developer
+  timeline: "Jul 2017 - Sep 2018"
+  #repo: https://github.com/kelseyhightower/nocode
+  url: "https://www.u1na.org/"
+  summary: Ecosystem of initiatives for gender equity and women's empowerment
+  tags: ["professional", "php","web"]
