@@ -16,14 +16,14 @@ skills:
   summary: "Experience in create RPA, Bots and problem solving."
   url: "#skills"
 
-- name: Automation
-  icon: "images/skills/automation.png"
-  summary: "Capable to use Selenium in Java and Python and UFT in Vbscript in real projects."
-  url: "#skills"
-
 - name: Java
   icon: "images/skills/java.png"
   summary: "Worked with Java for software creation and personal projects."
+  url: "#skills"
+
+- name: PHP
+  icon: "images/skills/php.png"
+  summary: "Know how to build real PHP projects using the Laravel framework."
   url: "#skills"
 
 - name: Swift
@@ -31,12 +31,12 @@ skills:
   summary: "Some experience with pet projects for learning purpose."
   url: "#skills"
 
+- name: Automation
+  icon: "images/skills/automation.png"
+  summary: "Proficient with Selenium in Java or Python (with multiple libraries) and UFT in Vbscript in real projects."
+  url: "#skills"
+
 - name: Git
   icon: "images/skills/git.png"
   summary: "Worked with git-based development. Mostly, use Bitbucket and GitLab. Also, have experience in working with GitHub."
-  url: "#skills"
-
-- name: PHP
-  icon: "images/skills/php.png"
-  summary: "Know how to build real PHP projects using the Laravel framework."
   url: "#skills"

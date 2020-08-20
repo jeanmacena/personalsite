@@ -10,7 +10,7 @@ markup:
       unsafe: true
   tableOfContents:
     startLevel: 2
-    endLevel: 6
+    endLevel: 5
     ordered: false
 
 # Enable Google Analytics
@@ -28,7 +28,7 @@ params:
   copyright: © 2020 Copyright.
 
   # Meta description for your site.  This will help the search engines to find your site.
-  description: Portfolio and personal blog of Jean Macena.
+  description: Jean Macena's Portfolio
 
   # background image of the landing page
   #background: "images/background.png"
@@ -73,7 +73,9 @@ params:
     # a summary of what you do
     summary:
     - I am a Software Engineer
-    - I can learn any tech stack
+    - I am a Full Stack Developer
+    - I can learn any tech stack for a project
     - I am an Automation Specialist
-    - I love to work with a challenger project
+    - I believe in Hard Work and Team Work
+    - I really like to teach and share what I know
     - I have accent :)
