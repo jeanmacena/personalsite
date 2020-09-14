@@ -34,7 +34,7 @@ projects:
   repo: https://github.com/jeanmacena/instagram-bot
   #url: ""
   summary: Bot that will check a list of @ and like the last post. It works locally or as Heroku App.
-  tags: ["hobby", "python","bot"]
+  tags: ["professional", "python","bot"]
 
 - name: Jean Macena's website
   logo: images/projects/profile.png
@@ -44,6 +44,15 @@ projects:
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: Just a repository for my own website using Hugo.
   tags: ["hobby", "hugo", "website"]
+
+- name: BeachMap App
+  logo: images/projects/beachmap.png
+  role: Developer
+  timeline: "Sep 2020"
+  repo: https://github.com/Wilton-Garcia/beachmap
+  #url: "https://www.u1na.org/"
+  summary: App to help manage non-profitable projects for TWkers. iOS App and Python API.
+  tags: ["hobby", "python","swifit"]
 
 - name: UNA
   logo: images/projects/una.png
