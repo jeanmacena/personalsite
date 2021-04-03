@@ -19,9 +19,10 @@ experiences:
   - designation: Consultant Developer
     start: Mar 2020
     responsibilities:
-    - Full Stack developer
+    - Full Stack Developer
     - Facilitation of agile ceremonies
     - Client face
+    - Automation Testing
 
 - company:
     name: UNA Project
@@ -33,9 +34,8 @@ experiences:
     start: Jul 2017
     end: Sep 2018
     responsibilities:
-    - Developing functionalities
-    - Database management
-    - Deploy in production
+    - Full Stack Developer
+    - Automation Testing
 
 - company:
     name: Accenture
@@ -52,4 +52,4 @@ experiences:
     - Quality Engineer
     - Automation Instructor
     - Creation of Proof of Concept in different tools
-    - Creation of tools for improve the team productivity
+    - Creation of tools for improve the team productivity (RPA)
